@@ -1,0 +1,4 @@
+﻿  btree.cpp
+c:\users\강보훈\desktop\hometreestudy\btree\btree.cpp(33): error C2059: 구문 오류: '}'
+c:\users\강보훈\desktop\hometreestudy\btree\btree.cpp(33): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\강보훈\desktop\hometreestudy\btree\btree.cpp(33): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.

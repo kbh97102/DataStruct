@@ -1,0 +1,4 @@
+﻿  btreeDelete.c
+c:\users\강보훈\desktop\hometreestudy\btreedelete\btreedelete.c(250): warning C4098: 'remove_leafNode': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\강보훈\desktop\hometreestudy\btreedelete\btreedelete.c(138): warning C4716: 'insert_main': 값을 반환해야 합니다.
+  btreeDelete.vcxproj -> C:\Users\강보훈\Desktop\homeTreeStudy\Debug\btreeDelete.exe
