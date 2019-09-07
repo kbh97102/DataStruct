@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(QuickSort.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Sort.c
+c:\users\강보훈\source\repos\quicksort\quicksort\sort.c(85): warning C4101: 'middle' :참조되지 않은 지역 변수입니다.
+  QuickSort.vcxproj -> C:\Users\강보훈\source\repos\QuickSort\Debug\SortStudy.exe
